@@ -1,4 +1,4 @@
-### Hello! I'm Hasan. Welcome to my Github 👋
+### Hello! I'm Hasan. 👋
 
 I am a passionate software developer with interests in fullstack development, machine learning and financial technology. Currently, I am a sophomore student studying Computer Science and Business at UBC.
 
