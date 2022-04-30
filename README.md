@@ -4,7 +4,7 @@
 ```json
   {
     "bio": "ubc computer science and business",
-    "currently": "SWE Intern @ Databricks"
+    "currently": "SWE Intern @ Meta"
   }
 ```
 
