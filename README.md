@@ -4,15 +4,15 @@
 ```json
   {
     "bio": "ubc computer science and business",
-    "currently": "SWE Intern @ Meta"
+    "currently": "senior at UBC"
   }
 ```
 
-I'm Hasan - an undergraduate studying computer science and business at [UBC](https://www.ubc.ca/) in Vancouver, Canada. My current interests are fullstack development, entrepreneurship, and financial technology, specifically algorithmic trading. You can learn more about me on my website [here](https://www.hasanaltaf.xyz/).
+I'm Hasan - an undergraduate studying computer science and business at [UBC](https://www.ubc.ca/) in Vancouver, Canada. My current interests are fullstack development, entrepreneurship, and financial technology, specifically algorithmic trading. 
 
 ### currently learning 🌱
 
-- Fullstack web development
+- Distributed Systems
 - Applied machine learning
 
 ### contact 💬
